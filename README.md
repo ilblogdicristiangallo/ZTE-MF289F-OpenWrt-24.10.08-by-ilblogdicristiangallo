@@ -1,4 +1,4 @@
-# ZTE-MF289F-OpenWrt-24.10.05-by-ilblogdicristiangallo
+# ZTE-MF289F-OpenWrt-24.10.08-by-ilblogdicristiangallo
 This customized version of OpenWrt for ZTE MF286D is designed to deliver a complete, ready-to-flash firmware optimized for advanced LTE/5G modem support and post-install automation.
 This build targets ipq40xx/generic and is specifically tuned for the ZTE MF289F, providing stable USB modem support, web-based management, and extended modem control tools out of the box.
 
